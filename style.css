@@ -1,0 +1,21 @@
+body{
+    background-color:#212121;
+    color:#fff;
+}
+nav{
+    background:#fff;
+    padding:30px;
+    text-align:center;
+
+}
+a{
+    text-decoration:none;
+    margin:8px;
+    border:2px solid black;
+    padding:8px; 
+    border-radius:12px;
+    color:black;
+}
+a:hover{
+    background-color:#525151;
+}
